@@ -1,6 +1,6 @@
 <h2>
-  <img src="/assets/images/marina_colorwash.png" width="100" height="100"/>Nooby <i>(he/they)</i> 
-</h3>
+  Nooby <i>(he/they)</i> 
+</h2>
 i'm a hobbyist developer mainly working on tools relating to roblox & discord.
 <h3>Website</h3>
 I have a website @https://n-by.me
