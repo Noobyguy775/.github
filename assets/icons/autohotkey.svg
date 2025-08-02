@@ -2,11 +2,10 @@
 <svg
    width="256"
    height="256"
-   title="Icon Name"
    viewBox="0 0 256 256"
    fill="none"
-   id="id"
    version="1.1"
+   id="svg1"
    sodipodi:docname="autohotkeyicon.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,37 +23,26 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="3.1523438"
-     inkscape:cx="128"
-     inkscape:cy="128"
+     inkscape:zoom="2.2290436"
+     inkscape:cx="46.881092"
+     inkscape:cy="120.45525"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="id" />
-  <style
-     id="style1">
-#id {
-    rect {fill: #15191C}
-
-    @media (prefers-color-scheme: light) {
-        rect {fill: #F4F2ED}
-    }
-}
-</style>
+     inkscape:current-layer="svg1" />
   <rect
      width="256"
      height="256"
-     rx="25"
-     fill="#15191C"
+     rx="60"
+     fill="#242938"
      id="rect1"
      style="fill:#448e3a;fill-opacity:1" />
   <g
      id="g1"
      style="display:inline"
-     transform="matrix(18.89764,0,0,17.135555,-27.000007,-17.337822)">
+     transform="matrix(17.196852,0,0,15.593355,-10.050006,-1.257418)">
     <path
        id="left"
        style="display:inline;fill:#8cf287;stroke-width:0.293683"
