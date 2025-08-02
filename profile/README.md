@@ -5,12 +5,13 @@ i'm a hobbyist developer mainly working on tools relating to roblox & discord.
 <h3>Website</h3>
 I have a website @https://n-by.me
 <h3>Programming Languages</h3>
-<img src="/assets/icons/autohotkey.svg" width="48" height="48"/>
+<h4>Learnt</h4>
+<img src="https://skills.syvixor.com/api/icons?i=autohotkey,html,css&radius=64" >
 <h4>Learning</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,js,ts,html,css" />
+<img src="https://skills.syvixor.com/api/icons?i=nodejs,js,ts&radius=64" />
 <h3>Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,git" />
+<img src="https://skills.syvixor.com/api/icons?i=react,tailwind,nextjs,discordjs,git&radius=64" />
 <h3>Software</h3>
-<img src="https://skillicons.dev/icons?i=github,windows,vscode,discord" />
+<img src="https://skills.syvixor.com/api/icons?i=github,windows,vscode,discord,firefox&radius=64" />
 <h3>Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Noobyguy775&show_icons=true&theme=github_dark" alt="Bocon778's GitHub stats" /><br>
