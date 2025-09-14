@@ -1,17 +1,14 @@
-<h2>
-  Nooby <i>(he/they)</i> 
-</h2>
-i'm a hobbyist developer mainly working on tools relating to roblox & discord.
-<h3>Website</h3>
-I have a website @https://n-by.me
-<h3>Programming Languages</h3>
-<h4>Learnt</h4>
+<h3>noo.by</h3>
+<sup>aka noobyguy, noobyguy775, nooby75</sup><br />
+i'm a sometimes-useful developer who mostly works on stuff relating to roblox & discord<br />
+i have a website @ https://n-by.me yay its so cool go check it i guess 
+<h4>languages :D</h4>
+<h5>knows</h5>
 <img src="https://skills.syvixor.com/api/icons?i=autohotkey,html,css&radius=64" >
-<h4>Learning</h4>
+<h5>learning</h5>
 <img src="https://skills.syvixor.com/api/icons?i=nodejs,js,ts&radius=64" />
-<h3>Libraries</h3>
+<h5>libraries</h5>
 <img src="https://skills.syvixor.com/api/icons?i=react,tailwind,nextjs,discordjs,git&radius=64" />
-<h3>Software</h3>
+<h5>software</h5>
 <img src="https://skills.syvixor.com/api/icons?i=github,windows,vscode,discord,firefox&radius=64" />
-<h3>Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Noobyguy775&show_icons=true&theme=github_dark" alt="Bocon778's GitHub stats" /><br>
+<sup>icons from https://github.com/syvixor/skills-icons</sup>
